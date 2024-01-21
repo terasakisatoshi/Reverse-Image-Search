@@ -131,7 +131,7 @@ testpath==0.4.4
 textblob==0.15.3
 toml==0.10.1
 toolz==0.10.0
-tornado==5.1.1
+tornado==6.3.3
 tqdm==4.46.0
 traitlets==4.3.3
 twine==3.1.1
